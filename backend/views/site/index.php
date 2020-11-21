@@ -6,7 +6,7 @@
 /** @var $numberOfSubscribers integer */
 /** @var $subscribers \common\models\Subscriber[] */
 
-$this->title = 'My Yii Application';
+$this->title = 'My Youtube Clone Project';
 ?>
 <div class="site-index d-flex">
     <div class="card m-2" style="width: 14rem;">
